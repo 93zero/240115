@@ -230,6 +230,7 @@ img:hover {
 =======================*/
 
 main {
+   overflow: hidden;
     position: relative;
 }
 
